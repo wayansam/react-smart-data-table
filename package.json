@@ -1,6 +1,6 @@
 {
   "name": "react-smart-data-table-search",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A smart data table component for React.js meant to be configuration free",
   "scripts": {
     "start": "npm run build && npm run server",
