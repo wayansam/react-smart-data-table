@@ -15,7 +15,6 @@
   font-style: normal;
   content: "\21D5";
   cursor: pointer;
-
 }
 
 .rsdt.rsdt-sortable-asc:after {
@@ -30,4 +29,14 @@
   font-style: normal;
   content: "\2191";
   cursor: pointer;
+}
+
+.rsdt.rsdt-input {
+  background: white;
+  width: -moz-available;
+  width: -webkit-fill-available;
+  width: fill-available;
+  margin-top: 5px;
+  padding: 5px;
+  min-width: 20px;
 }
