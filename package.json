@@ -1,5 +1,5 @@
 {
-  "name": "react-smart-data-table",
+  "name": "react-smart-data-table-search",
   "version": "0.7.3",
   "description": "A smart data table component for React.js meant to be configuration free",
   "scripts": {
@@ -29,7 +29,7 @@
     "table",
     "configuration"
   ],
-  "author": "Joao Carmo",
+  "author": "wayansam",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/wayansam/react-smart-data-table/issues"
